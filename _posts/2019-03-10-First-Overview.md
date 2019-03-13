@@ -8,3 +8,5 @@ comments: no
 ---
 
 ![planning and control overview](http://intonomos.com/blog/assets/pnc_overview.png)
+
+[Schwarting, Wilko, Javier Alonso-Mora, and Daniela Rus. "Planning and decision-making for autonomous vehicles." Annual Review of Control, Robotics, and Autonomous Systems 1 (2018): 187-210.](https://www.annualreviews.org/doi/full/10.1146/annurev-control-060117-105157)

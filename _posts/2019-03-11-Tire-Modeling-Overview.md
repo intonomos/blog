@@ -2,8 +2,8 @@
 layout: post
 title: Tire Modeling
 excerpt: "Brief overview of tire mathematical models."
-categories: overview
-tags: overview tire
+categories: overview modeling
+tags: overview tire modeling
 comments: no
 ---
 

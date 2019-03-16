@@ -78,13 +78,6 @@ v_4 &= f\left(x(k) + v_3, u(k)\right)
 $$
 
 
-Gaussian Quadrature:
-
-- Useful for optimization
-- The above approaches are "iterative" approaches. This approach is a "batch" process.
-
-
-
 [Wikipedia: Discretization](https://en.wikipedia.org/wiki/Discretization)
 
 [Wikipedia: Euler method](https://en.wikipedia.org/wiki/Euler_method)
@@ -97,6 +90,6 @@ Gaussian Quadrature:
 
 [Pepy, Romain, Alain Lambert, and Hugues Mounier. "Path planning using a dynamic vehicle model." In 2006 2nd International Conference on Information & Communication Technologies, vol. 1, pp. 781-786. IEEE, 2006.](http://www.cs.cmu.edu/~motionplanning/reading/PlanningforDynamicVeh-1.pdf)
 
-[Wikipedia: Gaussian quadrature](https://en.wikipedia.org/wiki/Gaussian_quadrature)
+[Lecture on Sampling by Prof. Alberto Bemporad](http://cse.lab.imtlucca.it/~bemporad/teaching/ac/pdf/AC2-03-Sampling.pdf)
 
-[Wikipedia: Langrange polynomial](https://en.wikipedia.org/wiki/Lagrange_polynomial)
+[Lempio, Frank, and Vladimir Veliov. "Discrete approximations of differential inclusions." Bayreuther Mathematische Schriften 54 (1998): 149-232.](http://num.math.uni-bayreuth.de/en/publications/1998/lempio_et_al_bms_54_1998/index.html)

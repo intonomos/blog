@@ -12,7 +12,7 @@ f = w_g g + w_h h
 $$
 
 - $$w_g = 1$$, $$w_h = 0$$: Dijkstra's Algorithm.
-- $$w_g = 0$$, $$w_h = 0$$: Greedy Best-First Search.
+- $$w_g = 0$$, $$w_h = 1$$: Greedy Best-First Search.
 - $$w_g = 1$$, $$w_h = 1$$: Regular A* Algorithm.
 - $$w_g = 1$$, $$w_h = w > 1$$: Weighted A* Algorithm.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Layman's Introduction to Optimization
 excerpt: "A layman's introduction to optimization."
-categories: intro
+categories: optimization
 tags: intro optimization
 comments: no
 ---

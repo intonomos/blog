@@ -7,7 +7,7 @@ tags: overview tire modeling
 comments: no
 ---
 
-#### Through simple physcial models
+#### Through simple physical models
 - Brush model
 - String model
 - Beam model

@@ -92,7 +92,7 @@ $$
 
 **Transcription**
 
-Transcription from Trajectory Optimization Problem to Constrainted Parameter Optimization is necessary.
+Transcription from Trajectory Optimization Problem to Constrained Parameter Optimization is necessary.
 
 Trajectory Optimization Problem:
 - Decision variables are vector functions

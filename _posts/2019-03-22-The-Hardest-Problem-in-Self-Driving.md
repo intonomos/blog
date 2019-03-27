@@ -32,7 +32,7 @@ Coherence can amplify problems! The entire autonomous vehicle fleet runs the sam
 **Observation #3**
 
 Testing by accumulation of miles is not enough and sufficient
-- Need 1 billion miles to prove safty
+- Need 1 billion miles to prove safety
 - Cannot use human accidents as patterns for testing
 - Cannot fully trust simulation
 - Repeated testings is needed for each new version

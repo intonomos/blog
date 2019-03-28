@@ -11,4 +11,4 @@ One fundamental challenge in optimization-based trajectory planning is the appro
 
 This paper provides a formulation for collision avoidance based on the notion of signed distance, which characterizes not only the distance between two objects but also their penetration.
 
-[Zhang, Xiaojing, Alexander Liniger, and Francesco Borrelli. "Optimization-based collision avoidance." arXiv preprint arXiv:1711.03449 (2017).](https://arxiv.org/abs/1711.03449)
+[Zhang, Xiaojing, Alexander Liniger, and Francesco Borrelli. "Optimization-based collision avoidance." arXiv preprint arXiv:1711.03449 (2017).](https://arxiv.org/abs/1711.03449){:target="_blank"}

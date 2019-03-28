@@ -83,4 +83,4 @@ The Safe Landing System uses different components from the main Driving Agent:
 
 
 
-[The Hardest Problem in Self Driving by Tim Daly](http://on-demand.gputechconf.com/gtc-cn/2018/pdf/CH8702.pdf)
+[The Hardest Problem in Self Driving by Tim Daly](http://on-demand.gputechconf.com/gtc-cn/2018/pdf/CH8702.pdf){:target="_blank"}

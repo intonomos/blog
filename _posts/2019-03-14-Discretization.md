@@ -78,20 +78,20 @@ v_4 &= f\left(x(k) + v_3, u(k)\right)
 $$
 
 
-[Wikipedia: Discretization](https://en.wikipedia.org/wiki/Discretization)
+[Wikipedia: Discretization](https://en.wikipedia.org/wiki/Discretization){:target="_blank"}
 
-[Wikipedia: Euler method](https://en.wikipedia.org/wiki/Euler_method)
+[Wikipedia: Euler method](https://en.wikipedia.org/wiki/Euler_method){:target="_blank"}
 
-[Wikipedia: Midpoint method](https://en.wikipedia.org/wiki/Midpoint_method)
+[Wikipedia: Midpoint method](https://en.wikipedia.org/wiki/Midpoint_method){:target="_blank"}
 
-[Wikipedia: Runge–Kutta methods](https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods)
+[Wikipedia: Runge–Kutta methods](https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods){:target="_blank"}
 
-[Wikipedia: List of Runge–Kutta methods](https://en.wikipedia.org/wiki/List_of_Runge%E2%80%93Kutta_methods)
+[Wikipedia: List of Runge–Kutta methods](https://en.wikipedia.org/wiki/List_of_Runge%E2%80%93Kutta_methods){:target="_blank"}
 
-[Pepy, Romain, Alain Lambert, and Hugues Mounier. "Path planning using a dynamic vehicle model." In 2006 2nd International Conference on Information & Communication Technologies, vol. 1, pp. 781-786. IEEE, 2006.](http://www.cs.cmu.edu/~motionplanning/reading/PlanningforDynamicVeh-1.pdf)
+[Pepy, Romain, Alain Lambert, and Hugues Mounier. "Path planning using a dynamic vehicle model." In 2006 2nd International Conference on Information & Communication Technologies, vol. 1, pp. 781-786. IEEE, 2006.](http://www.cs.cmu.edu/~motionplanning/reading/PlanningforDynamicVeh-1.pdf){:target="_blank"}
 
-[Lecture on Sampling by Prof. Alberto Bemporad](http://cse.lab.imtlucca.it/~bemporad/teaching/ac/pdf/AC2-03-Sampling.pdf)
+[Lecture on Sampling by Prof. Alberto Bemporad](http://cse.lab.imtlucca.it/~bemporad/teaching/ac/pdf/AC2-03-Sampling.pdf){:target="_blank"}
 
-[Lempio, Frank, and Vladimir Veliov. "Discrete approximations of differential inclusions." Bayreuther Mathematische Schriften 54 (1998): 149-232.](http://num.math.uni-bayreuth.de/en/publications/1998/lempio_et_al_bms_54_1998/index.html)
+[Lempio, Frank, and Vladimir Veliov. "Discrete approximations of differential inclusions." Bayreuther Mathematische Schriften 54 (1998): 149-232.](http://num.math.uni-bayreuth.de/en/publications/1998/lempio_et_al_bms_54_1998/index.html){:target="_blank"}
 
-[Discussion: Discretization of Nonlinear Dynamical Systems](https://www.researchgate.net/post/Discretization_of_nonlinear_dynamical_systems)
+[Discussion: Discretization of Nonlinear Dynamical Systems](https://www.researchgate.net/post/Discretization_of_nonlinear_dynamical_systems){:target="_blank"}

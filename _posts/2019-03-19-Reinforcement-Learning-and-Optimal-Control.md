@@ -20,4 +20,4 @@ Terminology in Reinforcement Learning and Dynamic Programming
 | Self-learning | Solving a DP problem using simulation-based policy iteration |
 | Planning | Solving a DP problem using model-based simulation |
 
-[Reinforcement Learning and Optimal Control Book, Video Lectures, and Course Material from ASU, 2019 by Dimitri P. Bertsekas](https://web.mit.edu/dimitrib/www/RLbook.html)
+[Reinforcement Learning and Optimal Control Book, Video Lectures, and Course Material from ASU, 2019 by Dimitri P. Bertsekas](https://web.mit.edu/dimitrib/www/RLbook.html){:target="_blank"}

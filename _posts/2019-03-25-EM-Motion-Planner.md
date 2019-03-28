@@ -34,4 +34,4 @@ Architecture
       - Result: smooth speed
 - Reference Line Trajectory Decider
 
-[Baidu Apollo EM Motion Planner](https://arxiv.org/abs/1807.08048)
+[Baidu Apollo EM Motion Planner](https://arxiv.org/abs/1807.08048){:target="_blank"}

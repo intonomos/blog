@@ -17,4 +17,4 @@ AD is used in the following areas:
 - Design Optimization
 - Data Assimilation & Inverse Problems
 
-[www.autodiff.org](http://www.autodiff.org)
+[www.autodiff.org](http://www.autodiff.org){:target="_blank"}

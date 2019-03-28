@@ -117,4 +117,4 @@ $$
 \end{aligned}
 $$
 
-[Trajectory Optimization Tutorial by Matthew Kelly](http://www.matthewpeterkelly.com/tutorials/trajectoryOptimization/)
+[Trajectory Optimization Tutorial by Matthew Kelly](http://www.matthewpeterkelly.com/tutorials/trajectoryOptimization/){:target="_blank"}

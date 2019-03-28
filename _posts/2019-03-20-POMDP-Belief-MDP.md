@@ -64,8 +64,6 @@ $$
 r(b(s), a) = \sum_{s \in S} b(s) R(s, a)
 $$
 
-[Wikipedia - Partially observable Markov decision process](https://en.wikipedia.org/wiki/Partially_observable_Markov_decision_process)
+[Wikipedia - Partially observable Markov decision process](https://en.wikipedia.org/wiki/Partially_observable_Markov_decision_process){:target="_blank"}
 
-[Lecture Slides on POMDP by Prof. Geoff Hollinger Fall 2007](http://www.cs.cmu.edu/~ggordon/780-fall07/lectures/POMDP_lecture.pdf)
-
-[]
+[Lecture Slides on POMDP by Prof. Geoff Hollinger Fall 2007](http://www.cs.cmu.edu/~ggordon/780-fall07/lectures/POMDP_lecture.pdf){:target="_blank"}

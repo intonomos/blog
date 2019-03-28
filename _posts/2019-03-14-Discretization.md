@@ -56,7 +56,7 @@ x(k+1) \approx (A \Delta t + I) x(k) + (B \Delta t) u(k)
 $$
 
 $$
-x(k+1) \approx  f(x(k), u(k)) \Delta t
+x(k+1) \approx  x(k) + f(x(k), u(k)) \Delta t
 $$
 
 Explicit midpoint method
@@ -93,3 +93,5 @@ $$
 [Lecture on Sampling by Prof. Alberto Bemporad](http://cse.lab.imtlucca.it/~bemporad/teaching/ac/pdf/AC2-03-Sampling.pdf)
 
 [Lempio, Frank, and Vladimir Veliov. "Discrete approximations of differential inclusions." Bayreuther Mathematische Schriften 54 (1998): 149-232.](http://num.math.uni-bayreuth.de/en/publications/1998/lempio_et_al_bms_54_1998/index.html)
+
+[Discussion: Discretization of Nonlinear Dynamical Systems](https://www.researchgate.net/post/Discretization_of_nonlinear_dynamical_systems)

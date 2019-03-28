@@ -7,7 +7,7 @@ tags: pomdp review
 comments: true
 ---
 
-![Markov Models](http://intonomos.com/blog/assets/markov_models_table.png)
+![Markov Models](https://intonomos.com/blog/assets/markov_models_table.png)
 
 A discrete-time POMDP models the relationship between an agent and its environment. Formally, a POMDP is a 7-tuple $$(S, A, T, R, \Omega, O, \gamma)$$, where
 - $$S$$ is a set of states

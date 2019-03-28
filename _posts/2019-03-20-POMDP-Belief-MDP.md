@@ -4,7 +4,7 @@ title: POMDP and Belief MDP
 excerpt: "A Markovian belief state allows a POMDP to be formulated as a MDP where every belief is a state."
 categories: pomdp
 tags: pomdp review
-comments: no
+comments: true
 ---
 
 ![Markov Models](http://intonomos.com/blog/assets/markov_models_table.png)

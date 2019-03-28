@@ -4,7 +4,7 @@ title: A* Variants Overview
 excerpt: "Brief overview of A* path planning algorithms."
 categories: overview planning
 tags: overview planning a-star
-comments: no
+comments: true
 ---
 
 $$

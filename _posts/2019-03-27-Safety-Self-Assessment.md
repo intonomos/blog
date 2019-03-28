@@ -4,7 +4,7 @@ title: Voluntary Safety Self-Assessment
 excerpt: "NHTSA’s Automated Driving Systems Voluntary Safety Self-Assessment"
 categories: industry
 tags: industry
-comments: no
+comments: true
 ---
 
 - [Apple: Our Approach to Automated Driving System Safety (February 19)](https://www.apple.com/ads/ADS-Safety.pdf)

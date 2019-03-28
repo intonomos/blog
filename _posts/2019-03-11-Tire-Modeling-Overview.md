@@ -4,7 +4,7 @@ title: Tire Modeling
 excerpt: "Brief overview of tire mathematical models."
 categories: overview modeling
 tags: overview tire modeling
-comments: no
+comments: true
 ---
 
 #### Through simple physical models

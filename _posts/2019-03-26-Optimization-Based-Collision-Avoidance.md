@@ -4,7 +4,7 @@ title: Optimization-Based Collision Avoidance
 excerpt: "A novel method for reformulating non-differentiable collision avoidance constraints into smooth nonlinear constraints using strong duality of convex optimization."
 categories: planning avoidance
 tags: paper planning avoidance
-comments: no
+comments: true
 ---
 
 One fundamental challenge in optimization-based trajectory planning is the appropriate formulation of collision avoidance constraints, which are known to be non-convex and computationally difficult to handle in general.

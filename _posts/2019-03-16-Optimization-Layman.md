@@ -4,7 +4,7 @@ title: Layman's Introduction to Optimization
 excerpt: "A layman's introduction to optimization."
 categories: optimization
 tags: intro optimization
-comments: no
+comments: true
 ---
 
 ![The Physical Optimization Problem](http://intonomos.com/blog/assets/the_physical_optimization_problem.png)

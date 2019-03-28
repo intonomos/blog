@@ -4,7 +4,7 @@ title: Trajectory Optimization Formulation
 excerpt: "Trajectory optimization problem assumptions and formulation."
 categories: optimization
 tags: overview optimization
-comments: no
+comments: true
 ---
 
 **Assumptions**

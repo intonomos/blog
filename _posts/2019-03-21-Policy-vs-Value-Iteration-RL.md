@@ -4,7 +4,7 @@ title: Policy Iteration vs. Value Iteration
 excerpt: "Differences between policy iteration and value iteration reinforcement learning"
 categories: reinforcement
 tags: reinforcement review
-comments: no
+comments: true
 ---
 
 Policy Iteration:

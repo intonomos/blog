@@ -12,7 +12,7 @@ locale: en_US
 ### Personal info and site tools info:
 twitter_username: intonomos
 github_username:  intonomos
-# disqus_shortname: intonomos
+disqus_shortname: intonomos
 # favicon:     "/images/favicon.ico"
 aboutme: Planning and Control Algorithms for Autonomous Vehicles. # these are shown on aboutme-sidebar.
 # aboutme_photo: [LINK] # your photo.

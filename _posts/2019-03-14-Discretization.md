@@ -4,7 +4,7 @@ title: Continuous System Discretization
 excerpt: "Brief overview of discretization methods."
 categories: overview modeling
 tags: overview modeling discretization
-comments: no
+comments: true
 ---
 
 ### Continues-Time System

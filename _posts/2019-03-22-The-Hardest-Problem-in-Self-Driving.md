@@ -4,7 +4,7 @@ title: The Hardest Problem in Self Driving
 excerpt: "Presentation at GPU Tech Conference by Tim Daly, Chief Architect at Plus.ai"
 categories: industry
 tags: industry
-comments: no
+comments: true
 ---
 
 **Observation #1**

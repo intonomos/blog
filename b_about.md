@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About
-comments: no
+comments: true
 permalink: /about/
 ---
 
+I will post materials or pieces of knowledge related to planning and control of autonomous vehicles daily.
 
-Planning and Control Algorithms for Autonomous Vehicles
-
+Occasionally, I will try to post longform articles that relatively thoroughly cover a related topic.

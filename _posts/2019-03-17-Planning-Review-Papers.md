@@ -4,7 +4,7 @@ title: List of Review Papers
 excerpt: "A list of review papers for planning and control of autonomous vehicles."
 categories: paper
 tags: paper review
-comments: no
+comments: true
 ---
 
 [Paden, Brian, Michal Čáp, Sze Zheng Yong, Dmitry Yershov, and Emilio Frazzoli. "A survey of motion planning and control techniques for self-driving urban vehicles." IEEE Transactions on intelligent vehicles 1, no. 1 (2016): 33-55.](https://arxiv.org/abs/1604.07446)

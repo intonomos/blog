@@ -4,7 +4,7 @@ title: Safety Assurance Model
 excerpt: "A white-box, interpretable, mathematical model for safety assurance, which is called Responsibility-Sensitive Safety (RSS)."
 categories: paper
 tags: paper review
-comments: no
+comments: true
 ---
 
 RSS is constructed by formalizing the following 5 “common sense” rules:

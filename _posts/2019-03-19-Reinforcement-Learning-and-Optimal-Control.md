@@ -4,7 +4,7 @@ title: 「Reinforcement Learning and Optimal Control」
 excerpt: "A new book on solving large and challenging multi-state decision problems."
 categories: book
 tags: book review
-comments: no
+comments: true
 ---
 
 Terminology in Reinforcement Learning and Dynamic Programming

@@ -4,7 +4,7 @@ title: Baidu Apollo EM Motion Planner
 excerpt: "A motion planner based on expectation maximization-type iterative algorithm."
 categories: planning
 tags: paper planning
-comments: no
+comments: true
 ---
 
 This planner targets safety and ride experience with a multi-lane, path-speed iterative, traffic rule and decision combined design.

@@ -4,7 +4,7 @@ title: List of Simulators
 excerpt: "A list of simulators"
 categories: simulation
 tags: simulation
-comments: no
+comments: true
 ---
 
 **Open Source**

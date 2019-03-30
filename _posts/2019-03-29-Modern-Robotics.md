@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 「Modern Robotics: Mechanics, Planning, and Control」
+title: 「Modern Robotics - Mechanics, Planning, and Control」
 excerpt: "A book on mechanics, planning, and control of modern robotics"
 categories: book
 tags: book review

@@ -14,4 +14,4 @@ This book covers the following topics:
 - Robot Motion Planning and Control (Chapter 9-11)
 - Robot Manipulation and Wheeled Mobile Robots (Chapter 12-13)
 
-[Modern Robotics: Mechanics, Planning, and Control by Kevin M. Lynch and Frank C. Park](http://hades.mech.northwestern.edu/index.php/Modern_Robotics)
+[Modern Robotics: Mechanics, Planning, and Control by Kevin M. Lynch and Frank C. Park](http://hades.mech.northwestern.edu/index.php/Modern_Robotics){:target="_blank"}

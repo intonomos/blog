@@ -8,6 +8,7 @@ comments: true
 ---
 
 Original Formulation:
+
 $$
 \begin{aligned}
 \underset{x, u, t_f}{\text{minimize }}
@@ -22,6 +23,7 @@ $$
 $$
 
 Approach 1:
+
 $$
 \begin{aligned}
 \underset{u_0, \cdots, u_{N-1}, \Delta t}{\text{minimize }}
@@ -36,6 +38,7 @@ $$
 $$
 
 Approach 2:
+
 $$
 \begin{aligned}
 \underset{u(t_0), \cdots, u(t_{N-1}), t_f}{\text{minimize }}
@@ -49,6 +52,7 @@ $$
 & i = 1, \cdots, N
 \end{aligned}
 $$
+
 where $$\tau_i \in [-1, 1]$$ are collocation points, for example, Legendre-Gauss points are roots of Legendre polynomial of order $$N$$.
 
 The state is approximated using a basis of $$N+1$$ Lagrange interpolating polynomials $$L_i(t), i = 0, \cdots, N$$
@@ -74,9 +78,11 @@ Alternatively, there is integral form.
 $$
 x(t_i)  - x(0) =  \frac{t_f}{2} \sum_{j=1}^{N} A_{ij}f(x(t_{j}), u(t_{j}))
 $$
+
 and $$A = D^{-1}$$
 
 Integral form of differential dynamics:
+
 $$
 \begin{aligned}
 \dot{x}(t) &= f(x(t), u(t)) \\

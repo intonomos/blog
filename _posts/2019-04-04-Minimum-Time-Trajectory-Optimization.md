@@ -26,7 +26,7 @@ Approach 1:
 
 $$
 \begin{aligned}
-\underset{u_0, \cdots, u_{N-1}, \Delta t}{\text{minimize }}
+\underset{x_0, \cdots, x_N, u_0, \cdots, u_{N-1}, \Delta t}{\text{minimize }}
 & N \Delta t\\
 \text{subject to }
 & x_i  - x_{i-1} = f(x_{i-1}, u_{i-1}) \Delta t \\
@@ -41,7 +41,7 @@ Approach 2:
 
 $$
 \begin{aligned}
-\underset{u(t_0), \cdots, u(t_{N-1}), t_f}{\text{minimize }}
+\underset{x(t_0), \cdots, x(t_{N}), u(t_0), \cdots, u(t_{N-1}), t_f}{\text{minimize }}
 & t_f\\
 \text{subject to }
 & \sum_{j=1}^{N} x(t_j) D_{ij} = f(x(t_i), u(t_i))\\
@@ -92,3 +92,5 @@ x(t) & = x(0) + \frac{t_f}{2} \int_{-1}^{\tau} f(x(\hat{\tau}), u(\hat{\tau})) \
 $$
 
 [Wikipedia: Gaussian Quadrature](https://en.wikipedia.org/wiki/Gaussian_quadrature){:target="_blank"}
+
+[Wikipedia: Lagrange Polynomial](https://en.wikipedia.org/wiki/Lagrange_polynomial){:target="_blank"}
